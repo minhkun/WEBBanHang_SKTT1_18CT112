@@ -8,7 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebProgramming18CT113.WebApp", "WebProgramming18CT113.WebApp\WebProgramming18CT113.WebApp.csproj", "{B63E0784-D175-41F7-914F-384A73549E8A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBBanHang_SKTT1_18ct112", "WEBBanHang_SKTT1_18ct112\WEBBanHang_SKTT1_18ct112.csproj", "{42EEA92A-5E71-43E2-9C5F-FF5AE8B3047C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,10 +16,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B63E0784-D175-41F7-914F-384A73549E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B63E0784-D175-41F7-914F-384A73549E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B63E0784-D175-41F7-914F-384A73549E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B63E0784-D175-41F7-914F-384A73549E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42EEA92A-5E71-43E2-9C5F-FF5AE8B3047C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EEA92A-5E71-43E2-9C5F-FF5AE8B3047C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EEA92A-5E71-43E2-9C5F-FF5AE8B3047C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EEA92A-5E71-43E2-9C5F-FF5AE8B3047C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
